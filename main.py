@@ -1,5 +1,7 @@
 def hello():
 	print("Hello from main branch")
+	print("Hello from the conflict branch")
+
 def goodbye():
 	print("Goodbye git hub")
 def branch():
