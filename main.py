@@ -1,5 +1,5 @@
 def hello():
-	print("Hello git hub")
+	print("Hello from main branch")
 def goodbye():
 	print("Goodbye git hub")
 def branch():
