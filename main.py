@@ -10,3 +10,6 @@ def branch():
 
 hello()
 goodbye()
+
+print("This is a terrible idea")
+
